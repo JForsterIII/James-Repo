@@ -9,4 +9,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-This is my index file for Github! 
+This is my index file for Github! I have successfully uploaded it to my Repository.
+
+
