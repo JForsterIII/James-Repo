@@ -11,4 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This is my index file for Github! I have successfully uploaded it to my Repository.
 
+Adding an image for my page as well: 
+
+
+![Schematic showing the potential activation of the NLRP3 inflammasome pathway by mRNA loaded lipid nanoparticles](Manuscript Figure 1 for Evo Geno.jpg)
 
